@@ -11,6 +11,6 @@ class CheckCredit
       if(price > LIMIT)
          WriteLine("You have exceeded the credit limit of ${0}", LIMIT);
        else
-          WriteLine("Approved now");
+          WriteLine("Approved now 143");
    }
 }
